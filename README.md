@@ -9,12 +9,7 @@ Bu proje ile basit matematiksel işlemleri yapabilirsiniz.
 Ayrıca projenin kodlarına da aşağıda ulaşabilirsiniz.
 
 
-
-
-
-
-
-
+```motoko
 // hesap makinesi
 // değişkenler (let -> immutable, var -> mutable)
 // operatörler
@@ -27,7 +22,6 @@ actor hesap_makinesi {
     var hucre: Int = 0;
     
     // toplama
-    // fonksiyon
     public func toplama(s: Int) : async Int {
         hucre += s;
         hucre
