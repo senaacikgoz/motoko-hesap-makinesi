@@ -4,7 +4,15 @@ Bu proje, Motoko Playground ile yazılmış bir hesap makinesi projesidir. Proje
 
 Projenin Linki:   [(https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=2003710119)]
 Bu proje ile basit matematiksel işlemleri yapabilirsiniz.
+
+
 Ayrıca projenin kodlarına da aşağıda ulaşabilirsiniz.
+
+
+
+
+
+
 
 
 // hesap makinesi
